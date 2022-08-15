@@ -1,0 +1,20 @@
+{
+  "name": "currency",
+  "version": "1.0.0",
+  "description": "",
+  "main": "currency_key.js",
+  "type": "module",
+  "scripts": {
+    "start": "node currency_key.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "cryptocurrencies": "^7.0.0",
+    "currency-codes": "^2.1.0",
+    "express": "^4.17.3",
+    "request": "^2.88.2"
+  }
+}
